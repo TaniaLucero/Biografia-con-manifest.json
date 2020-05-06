@@ -1,0 +1,17 @@
+{
+  "name": "Biografia",
+  "short_name": "Biografia",
+  "lang": "es-MX",
+  "start_url": "./utm_source-web_app_manifest",
+  "scope": "./",
+  "orientacion": "porttrait",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "launcher-icon-1x.png",
+      "type": "tanialucero/jpg",
+      "sizes": "96x96"
+    }
+  ],
+  "splash_pages": null
+}
